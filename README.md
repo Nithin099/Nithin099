@@ -18,7 +18,7 @@ class NithinAlexander:
         self.name = "Nithin Alexander"
         self.location = "Chennai, Tamil Nadu, India"
         self.degree = "B.Tech - Information Technology"
-        self.role = "Jr. Product Support Engineer @ IFS Softeon"
+        self.role = "Product Support Engineer @ IFS Softeon"
         self.stack = ["Python", "C", "Java", "SQL", "HTML", "CSS"]
         self.currently_learning = [
             "Django", "Flask", "Pandas", "Numpy", "PostgreSQL"
